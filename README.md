@@ -16,4 +16,4 @@
 |System fetch	| [Macchina](https://github.com/Macchina-CLI/macchina)|
 
 
-For Alacritty i use the [Cattpuccin](https://github.com/catppuccin/catppuccin) mocha variant.
+For Alacritty i use the [Cattpuccin](https://github.com/catppuccin/alacritty)theme mocha variant.
