@@ -12,7 +12,7 @@
 |Terminal		| [Alacritty](https://github.com/alacritty/alacritty)|
 |Launcher		| [Rofi](https://github.com/davatorium/rofi)|
 |WM				| [Qtile](https://github.com/qtile/qtile)|
-|Wallpaper		| [Here](https://github.com/YeIets/Dotfiles/blob/main/screenshots/wallpaper.jpg)|
+|Wallpaper		| [Here](https://wallhaven.cc/w/3kz963)|
 |System Fetch	| [Macchina](https://github.com/Macchina-CLI/macchina)|
 
 
