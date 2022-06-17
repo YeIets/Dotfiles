@@ -13,7 +13,7 @@
 |Launcher		| [Rofi](https://github.com/davatorium/rofi)|
 |WM				| [Qtile](https://github.com/qtile/qtile)|
 |Wallpaper		| [Here](https://github.com/Harshit-T/Wallpapers)|
-|System fetch	| [Macchina](https://github.com/Macchina-CLI/macchina)|
+|System Fetch	| [Macchina](https://github.com/Macchina-CLI/macchina)|
 
 
 For Alacritty i use the [Cattpuccin](https://github.com/catppuccin/alacritty) theme mocha variant.
