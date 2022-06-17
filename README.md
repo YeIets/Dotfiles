@@ -1,6 +1,2 @@
-# Dotfiles
-Dotfiles
+My first Arch linux rice 
 
-
-
-Blah blah blah
