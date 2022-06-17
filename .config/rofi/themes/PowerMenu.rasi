@@ -1,0 +1,81 @@
+configuration {
+  display-dmenu: "PowerMenu:";
+  drun-display-format: "{name}";
+  font: "Agave 16";
+  modi: "window,run,drun";
+}
+
+@theme "/dev/null"
+
+* {
+  bg: #1F1F1F;
+  bg-alt: #393E46;
+
+  fg: #F6E9E9;
+  fg-alt: #43a047FF;
+
+  background-color: @bg;
+  
+  border: 0;
+  margin: 0;
+  padding: 0;
+  spacing: 0;
+}
+
+window {
+  width: 15%;
+  height: 15%;
+  //border-radius: 10;
+  border: 2px;
+  border-color: @fg-alt;
+}
+
+element {
+  padding: 8 0;
+  text-color: @fg-alt;
+}
+
+element selected {
+  text-color: @fg;
+}
+
+element-text {
+  background-color: inherit;
+  text-color: inherit;
+  vertical-align: 0.5;
+}
+
+entry {
+  background-color:  #43a047FF;
+  padding: 12;
+  text-color: @fg;
+  border: 0 0 2 2;
+  border-color: @fg-alt;  
+}
+
+inputbar {
+  children: [entry];
+}
+
+listview {
+  padding: 8 12;
+  background-color: @bg;
+  columns: 1;
+  lines: 8;
+}
+
+mainbox {
+  background-color: @bg;
+  children: [inputbar, listview];
+}
+
+prompt {
+  background-color: #43a047FF;
+  enabled: true;
+  padding: 12 12 0 12;
+  text-color: @fg;
+  border: 0 0 2 0;
+  border-color: @fg-alt;
+}
+
+/* vim: ft=sass
