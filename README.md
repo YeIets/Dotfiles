@@ -8,7 +8,7 @@
 |stuff			|				|
 |---------------|---------------|
 |Distro			| [Arch](https://wiki.archlinux.org/title/Arch_Linux)|
-|Terminal		| [Alacritty](https://github.com/alacritty/alacritty)		|
+|Terminal		| [Alacritty](https://github.com/alacritty/alacritty)|
 |Launcher		| [Rofi](https://github.com/davatorium/rofi)|
 |WM				| [Qtile](https://github.com/qtile/qtile)|
 |Wallpaper		| [Here](https://github.com/Harshit-T/Wallpapers)|
