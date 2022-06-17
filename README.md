@@ -7,17 +7,12 @@
 
 |stuff			|				|
 |---------------|---------------|
-|Colors			| Catppuccin	|
 |Distro			| Arch			|
-|Terminal		| Alacritty		|
-|Launcher		| Rofi			|
-|Compositor		| Picom			|
-|WM				| qtile			|
+|Terminal		| [Alacritty](https://github.com/alacritty/alacritty)		|
+|Launcher		| [rofi](https://github.com/davatorium/rofi)|
+|WM				| [qtile](https://github.com/qtile/qtile)|
 |Wallpapers		| [here](https://github.com/Harshit-T/Wallpapers)|
-|Typing thing	| typioca		|
-|System fetch	| Neofetch		|
+|System fetch	| [Macchina](https://github.com/Macchina-CLI/macchina)|
 
 
-archive is a bunch of old rices that I use to use
-
-
+For Alacritty i use the [Cattpuccin](https://github.com/catppuccin/catppuccin) mocha variant.
