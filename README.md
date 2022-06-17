@@ -4,6 +4,7 @@
 ![alt text](/screenshots/desktop2.jpg "Screen shot")
 ![alt text](/screenshots/desktop.jpg "Screen shot")
 
+---
 
 |stuff			|				|
 |---------------|---------------|
