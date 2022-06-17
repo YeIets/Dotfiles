@@ -10,7 +10,7 @@ setxkbmap latam &
 feh --bg-fill /home/yelets/wallpapers/luchitas.jpg
 
 #Refresh Qtile config
-qtile cmd-obj -o cmd -f reload_config
+#qtile cmd-obj -o cmd -f reload_config
 
 #Start picom
 #picom --no-vsync
