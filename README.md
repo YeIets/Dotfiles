@@ -7,7 +7,7 @@
 
 |stuff			|				|
 |---------------|---------------|
-|Distro			| Arch			|
+|Distro			| [Arch](https://wiki.archlinux.org/title/Arch_Linux)|
 |Terminal		| [Alacritty](https://github.com/alacritty/alacritty)		|
 |Launcher		| [Rofi](https://github.com/davatorium/rofi)|
 |WM				| [Qtile](https://github.com/qtile/qtile)|
