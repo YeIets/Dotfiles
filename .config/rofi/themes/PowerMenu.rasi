@@ -12,7 +12,7 @@ configuration {
   bg-alt: #393E46;
 
   fg: #F6E9E9;
-  fg-alt: #43a047FF;
+  fg-alt: #F47340;
 
   background-color: @bg;
   
@@ -46,7 +46,7 @@ element-text {
 }
 
 entry {
-  background-color:  #43a047FF;
+  background-color:  #F47340;
   padding: 12;
   text-color: @fg;
   border: 0 0 2 2;
@@ -70,7 +70,7 @@ mainbox {
 }
 
 prompt {
-  background-color: #43a047FF;
+  background-color: #F47340;
   enabled: true;
   padding: 12 12 0 12;
   text-color: @fg;
