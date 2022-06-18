@@ -3,6 +3,9 @@
 
 ![alt text](/screenshots/desktop2.jpg "Screen shot")
 ![alt text](/screenshots/desktop.jpg "Screen shot")
+![alt text](/screenshots/RofiDrun.png "Screen shot")
+![alt text](/screenshots/RofiPowerMenu.png "Screen shot")
+
 
 ---
 
