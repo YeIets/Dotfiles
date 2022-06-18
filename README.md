@@ -17,6 +17,7 @@
 |WM				| [Qtile](https://github.com/qtile/qtile)|
 |Wallpaper		| [Here](https://wallhaven.cc/w/3kz963)|
 |System Fetch	| [Macchina](https://github.com/Macchina-CLI/macchina)|
+|Font         | [Agave](https://github.com/blobject/agave)|
 
 
 For Alacritty i use the [Cattpuccin](https://github.com/catppuccin/alacritty) theme mocha variant.
