@@ -1,10 +1,10 @@
 # My first riceeee
 ---
 
-![alt text](/screenshots/desktop2.jpg "Screen shot")
-![alt text](/screenshots/desktop.jpg "Screen shot")
-![alt text](/screenshots/Rofidrun.png "Screen shot")
-![alt text](/screenshots/RofiPower.png "Screen shot")
+![alt text](/screenshots/Desktop.png "Screen shot")
+![alt text](/screenshots/Desktop2.png "Screen shot")
+![alt text](/screenshots/RofiDrun.png "Screen shot")
+![alt text](/screenshots/RofiPowermenu.png "Screen shot")
 
 
 ---
