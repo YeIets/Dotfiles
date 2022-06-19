@@ -15,7 +15,7 @@
 |Terminal		| [Alacritty](https://github.com/alacritty/alacritty)|
 |Launcher		| [Rofi](https://github.com/davatorium/rofi)|
 |WM				| [Qtile](https://github.com/qtile/qtile)|
-|Wallpaper		| [Here](https://wallhaven.cc/w/3kz963)|
+|Wallpaper		| [Here](https://wallhaven.cc/w/6ozkzl)|
 |System Fetch	| [Macchina](https://github.com/Macchina-CLI/macchina)|
 |Font         | [Agave](https://github.com/blobject/agave)|
 
