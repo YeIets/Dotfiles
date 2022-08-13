@@ -9,7 +9,7 @@
 
 ---
 
-|Stuff      	|	Names		|
+|Stuff      	|	Name		|
 |---------------|---------------|
 |Distro			| [Arch](https://wiki.archlinux.org/title/Arch_Linux)|
 |Terminal		| [Alacritty](https://github.com/alacritty/alacritty)|
