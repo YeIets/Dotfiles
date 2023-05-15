@@ -2,18 +2,18 @@
 ---
 * Install archlinux with archinstall
 
-    Use desktop instalation with qtile wm
+* Use desktop instalation with qtile wm
 
-    Install git, vivaldi, feh
+* Install git, vivaldi, alacritty
 
-    Install arandr and alsamixer
+* Install arandr and alsamixer
 
-    Make autostart.sh in .config/qtile/
+* Make autostart.sh in .config/qtile/
 
-    Install macchina and yay
+* Install macchina, yay, feh
 
-    Install zsh, oh my zsh(robbyrussel), bat, lsd
+* Install zsh, oh my zsh(robbyrussel), bat, lsd
 
-    Install rofi , papirus theme, agave font
+* Install rofi , papirus theme, agave font
 
-    
+Subl,Rhythmbox, intellij, flameshot, libre office, github desktop, vscode, nautilus, picom
